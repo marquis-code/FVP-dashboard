@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="Harvesting" transform="translate(-314 -197)">
+    <circle id="Ellipse_49" data-name="Ellipse 49" cx="32.5" cy="32.5" r="32.5" transform="translate(314 197)" fill="#f2a133"/>
+    <g id="harvest" transform="translate(329 205.814)">
+      <g id="Group_559" data-name="Group 559" transform="translate(28.721 35.284)">
+        <g id="Group_558" data-name="Group 558">
+          <circle id="Ellipse_51" data-name="Ellipse 51" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_561" data-name="Group 561" transform="translate(3.324 35.284)">
+        <g id="Group_560" data-name="Group 560">
+          <circle id="Ellipse_52" data-name="Ellipse 52" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_563" data-name="Group 563" transform="translate(28.721 29.3)">
+        <g id="Group_562" data-name="Group 562">
+          <circle id="Ellipse_53" data-name="Ellipse 53" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_565" data-name="Group 565" transform="translate(3.324 29.3)">
+        <g id="Group_564" data-name="Group 564">
+          <circle id="Ellipse_54" data-name="Ellipse 54" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_567" data-name="Group 567" transform="translate(0 7.186)">
+        <g id="Group_566" data-name="Group 566">
+          <path id="Path_767" data-name="Path 767" d="M32.6,20.325a7.648,7.648,0,0,0-9.92-8.185v0a6.233,6.233,0,0,1,1.26-3.745L22.35,7.186a8.239,8.239,0,0,0-1.665,4.951v0a7.663,7.663,0,0,0-2.327-.362V11.8A7.648,7.648,0,0,0,6.626,14.138l0,0A6.232,6.232,0,0,1,4.866,10.6l-1.976.271a8.239,8.239,0,0,0,2.323,4.678l0,0a7.663,7.663,0,0,0-1.9,1.389,7.568,7.568,0,0,0-1.969,3.387H0V40.27H34.04V20.325Zm-11.416-5.8.5.289.5-.289a5.655,5.655,0,0,1,8.4,5.8h-10a7.688,7.688,0,0,0-.4-6.252A5.6,5.6,0,0,1,21.183,14.528ZM4.724,18.348a5.647,5.647,0,0,1,2.532-1.463l.557-.149.149-.557A5.652,5.652,0,1,1,18.4,20.325H3.439A5.614,5.614,0,0,1,4.724,18.348ZM32.045,38.276H1.995V34.287H32.045Zm0-5.984H1.995V28.3H32.045Zm0-5.984H1.995V22.32H32.045Z" transform="translate(0 -7.186)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_569" data-name="Group 569" transform="translate(28.721 23.317)">
+        <g id="Group_568" data-name="Group 568">
+          <circle id="Ellipse_55" data-name="Ellipse 55" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_571" data-name="Group 571" transform="translate(3.324 23.317)">
+        <g id="Group_570" data-name="Group 570">
+          <circle id="Ellipse_56" data-name="Ellipse 56" cx="0.997" cy="0.997" r="0.997" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

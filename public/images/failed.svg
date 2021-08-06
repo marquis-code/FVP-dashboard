@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="164.604" viewBox="0 0 218 164.604">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d95050"/>
+      <stop offset="1" stop-color="#d95050" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="failed" transform="translate(-787 -497.396)">
+    <rect id="immo-wegmann-REqK8jIAtv8-unsplash" width="218" height="164" rx="5" transform="translate(787 498)" fill="#d95050"/>
+    <g id="Group_646" data-name="Group 646" transform="translate(0 350)">
+      <path id="Path_770" data-name="Path 770" d="M12985.874,312c-23.563-53.035,89.928-117.957,62.037-164.6h120.705s12.985,50.014-38.952,89.447-26.45,75.157-26.45,75.157S13049.353,311.383,12985.874,312Z" transform="translate(-12179)" opacity="0.61" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_772" data-name="Path 772" d="M13147.145,147.4c23.563,53.035-70.255,117.957-42.364,164.6h-107.194s51.938-26.586,16.831-79-4.329-85.6-4.329-85.6S13083.666,148.013,13147.145,147.4Z" transform="translate(-12160.001 0)" opacity="0.61" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_771" data-name="Path 771" d="M13023.031,312c31.7-47.745-35.859-106.415,59.768-164.6h48.333s14.795,71.654-21.446,117.34,0,47.264,0,47.264S13091.633,311.383,13023.031,312Z" transform="translate(-12132)" opacity="0.61" fill="url(#linear-gradient)" style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+  </g>
+</svg>

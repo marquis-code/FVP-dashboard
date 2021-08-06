@@ -1,0 +1,222 @@
+@font-face {
+  font-family: Montserrat-ExtraLight;
+  src: url("./fonts/Montserrat-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-Light;
+  src: url("./fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url("./fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-SemiBold;
+  src: url("./fonts/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: Montserrat-Black;
+  src: url("./fonts/Montserrat-Black.ttf");
+}
+
+.error {
+  color: red;
+}
+
+.kyc-main-body {
+  margin-top: 6%;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (min-width: 1024px) {
+  .kyc-main-body {
+    margin-left: 248px;
+  }
+}
+
+.kyc-icon {
+  width: 30%;
+  margin-right: 10%;
+}
+
+.kyc-icon h3 {
+  text-align: left;
+  font: normal normal medium 30px/44px Montserrat;
+  letter-spacing: 0px;
+  color: #298525;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.kyc-icon img {
+  height: 400px;
+  width: 324px;
+}
+
+input[type="file"] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.kyc-info-card form {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 40px #00000029;
+  border-radius: 3px;
+  width: 480px;
+  margin-top: 27px;
+  padding-top: 5px;
+  padding-left: 30px;
+  padding-bottom: 50px;
+}
+
+.kyc-info-card .info-card_title {
+  text-align: left;
+  font: normal normal 600 25px/65px Montserrat-SemiBold;
+  font-weight: bolder;
+  letter-spacing: 0px;
+  color: #444444;
+  margin-bottom: 15px;
+}
+
+.kyc-info-card .info-card_instructions {
+  text-align: left;
+  font: normal normal 14px/22px Montserrat;
+  letter-spacing: 0.28px;
+  color: #545454;
+  margin-top: -20px;
+  margin-bottom: -15px;
+  font-weight: 500;
+}
+
+.kyc-info-card .input-label {
+  display: block;
+  position: relative;
+  top: 10px;
+  text-align: left;
+  font: normal normal normal 14px/25px Montserrat-Light;
+  letter-spacing: 0px;
+  color: #545454;
+}
+
+.kyc-info-card .input-tag {
+  display: block;
+  text-align: left;
+  font: normal normal normal 14px/25px Montserrat-Light;
+  letter-spacing: 0px;
+  color: #545454;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.kyc-info-card select {
+  font-size: 16px;
+  padding-left: 21px;
+  margin-top: 14px;
+  width: 95%;
+  height: 40px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: #f3f3f3;
+  background-image: url(../images/drop-down-icon.svg);
+  background-repeat: no-repeat;
+  background-position-x: 93%;
+  background-position-y: 20px;
+  border-radius: 3px;
+  outline: 0;
+  border: 0;
+}
+.kyc-info-card input {
+  background: #f3f3f3 0% 0% no-repeat padding-box;
+  border-radius: 3px;
+  border: none;
+  width: 95%;
+  height: 40px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  text-align: left;
+  font: normal normal normal 14px/25px Montserrat-Light;
+  letter-spacing: 0px;
+  color: #545454;
+}
+
+.kyc-info-card .names {
+  display: flex;
+}
+
+.kyc-info-card .names .first_name {
+  margin-right: 5px;
+  width: 48%;
+}
+
+.kyc-info-card .names .last_name {
+  margin-left: 5px;
+  width: 48%;
+}
+
+.kyc-info-card button {
+  background: transparent linear-gradient(93deg, #f29f2d 0%, #ffd500 100%) 0% 0%
+    no-repeat padding-box;
+  border-radius: 24px;
+  border: none;
+  height: 47px;
+  width: 95%;
+  margin-top: 20px;
+  text-align: center;
+  font: normal normal normal 16px/19px Montserrat-SemiBold;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+body {
+  bottom: 0;
+}
+
+.farm-land img {
+  margin-top: 1%;
+  width: 100%;
+}
+
+input[type="file"] {
+  position: absolute;
+  left: 0;
+  opacity: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.custom-file-upload p {
+  height: 100%;
+}
+
+.custom-file-upload {
+  display: inline-block;
+  position: relative;
+  width: 95%;
+  height: 159px;
+  border: 1px dashed #cccccc;
+  opacity: 1;
+  background: #f3f3f3 0% 0% no-repeat padding-box;
+  margin-top: 25px;
+  padding-top: 30px;
+  cursor: pointer;
+}
+
+.custom-file-upload img {
+  height: 30px;
+}
+
+div.dragover {
+  background-color: #aaa;
+}

@@ -1,0 +1,128 @@
+.dialog-box {
+  /* margin-top: 40px; */
+  width: 320px;
+  padding: 2rem;
+  z-index: 3;
+  /* position: absolute; */
+  /* margin-left: auto; */
+  /* margin: 0 auto; */
+  /* top: 26%; */
+  /* left: 43%; */
+  /* height: 415px; */
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 6px 12px #00000029;
+  border-radius: 9px;
+  /* opacity: 1; */
+  text-align: center;
+  z-index: 300;
+}
+.dialog_container .backdrop {
+  background: rgb(0,0,0, 0.3);
+}
+
+
+.dialog-box .dialog-box-title {
+  color: #edc24e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  /* line-height: 20px; */
+  margin-top: 19px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #F2A133;
+  opacity: 1;
+  font-weight: 500;
+}
+.dialogue-cancel{
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    padding-right: 1.5rem;
+    top: 16px;
+    cursor: pointer;
+}
+div#dialog {
+  position: relative;
+}
+
+.dialog-box .dialog-box-button {
+  /* top: 554px; */
+  /* left: 552px; */
+  width: 195px;
+    height: 44px;
+    margin-top: 8px;
+    background: transparent linear-gradient(96deg, #F29F2D 0%, #FFD500 100%) 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+}
+.dialog-box img {
+  width: 111px;
+  margin-top: 0.7rem;
+}
+
+/* .dialog-box .dialog-img{
+	top: 257px;
+   left: 1000px;
+   width: 111px;
+   height: 84px;
+} */
+.dialog-img img {
+  width: 160px;
+  margin-top: -28px;
+}
+
+.dialog-img {
+  margin-left: 40px;
+  padding-top: 10px ;
+  /* width: 70%; */
+}
+/* 
+@media only screen and (max-width: 768px) {
+	.dialog-box{
+	margin-top: 40px;
+	width: 95%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 40px;
+	z-index:3;
+	position: absolute;
+    margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	margin-left: 8px;
+
+  
+}
+
+
+.dialog-box .dialog-box-title {
+	color: #edc24e;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	line-height: 35px;
+}
+
+
+.dialog-box .dialog-box-button {
+  background: linear-gradient(135deg, #f2a133 50%, #ffd500 100%);
+  width: 80%; 
+  border: none;
+  border-radius: 40px;
+ 
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-top:20px;
+ 
+}
+
+} */
